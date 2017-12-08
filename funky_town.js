@@ -1,3 +1,6 @@
+//should be var fib = function(n){
+//fib(10)
+
 function fibonacci (n){
     
     var start = 0;

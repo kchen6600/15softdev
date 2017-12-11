@@ -7,7 +7,7 @@ function fibonacci (n){
     var next = 1;
     var k;
     
-    while (n >= 0){
+    while (n > 0){
 	k = next;
 	next = next +start;
 	start = k;
